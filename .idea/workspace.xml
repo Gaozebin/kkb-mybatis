@@ -191,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647761345885</updated>
       <workItem from="1647761348432" duration="1047000" />
-      <workItem from="1647762828983" duration="1777000" />
+      <workItem from="1647762828983" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="项目初始化">
       <created>1647763793482</created>
@@ -262,10 +262,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="203" y="422" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647761456100" />
-    <state x="93" y="0" key="CommitChangelistDialog2" timestamp="1647763841402">
+    <state x="93" y="0" key="CommitChangelistDialog2" timestamp="1647765460869">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="93" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647763841402" />
+    <state x="93" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647765460869" />
     <state x="495" y="138" key="FileChooserDialogImpl" timestamp="1647763748633">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -314,13 +314,17 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1647763731256" />
-    <state x="307" y="130" key="Vcs.Push.Dialog.v2" timestamp="1647764373184">
+    <state x="307" y="130" key="Vcs.Push.Dialog.v2" timestamp="1647765462551">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="307" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1647764373184" />
+    <state x="307" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1647765462551" />
     <state x="508" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647763802623">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="508" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1647763802623" />
+    <state x="352" y="273" key="git4idea.rebase.GitRebaseDialog" timestamp="1647764884581">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="352" y="273" key="git4idea.rebase.GitRebaseDialog/0.0.1536.816@0.0.1536.816" timestamp="1647764884581" />
   </component>
 </project>
