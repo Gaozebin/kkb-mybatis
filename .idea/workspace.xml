@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="555e6b0e-a566-46fb-b38d-a400c46d0e0d" name="Default Changelist" comment="项目初始化" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26dlSlMAxUpjA3FDUazCNTjiP3U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35287356" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="JUnit.Test2.testFindUserById">
+    <configuration name="Test1.testFindUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kkb-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kkb.mybatis.phase01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kkb.mybatis.phase01" />
+      <option name="MAIN_CLASS_NAME" value="com.kkb.mybatis.phase01.Test1" />
+      <option name="METHOD_NAME" value="testFindUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2.testFindUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kkb-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kkb.mybatis.phase02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kkb.mybatis.phase02" />
+      <option name="MAIN_CLASS_NAME" value="com.kkb.mybatis.phase02.Test2" />
+      <option name="METHOD_NAME" value="testFindUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.361" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.361" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="unnamed">
+          <settings>
+            <option name="CONTEXT_PATH" value="/unnamed" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_kkb-mybatis" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9271" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="unnamed" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Test1.testFindUserById" />
+      <item itemvalue="JUnit.Test2.testFindUserById" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.361" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Test2.testFindUserById" />
+        <item itemvalue="JUnit.Test1.testFindUserById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="555e6b0e-a566-46fb-b38d-a400c46d0e0d" name="Default Changelist" comment="" />
+      <created>1647761345885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647761345885</updated>
+      <workItem from="1647761348432" duration="1047000" />
+      <workItem from="1647762828983" duration="1777000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目初始化">
+      <created>1647763793482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647763793482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="项目初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="66" key="#Project_Structure" timestamp="1647761922183">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="360" y="66" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1647761922183" />
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1647761923314">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="223" y="63" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1647761923314" />
+    <state x="203" y="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1647761456100">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="203" y="422" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1647761456100" />
+    <state x="93" y="0" key="CommitChangelistDialog2" timestamp="1647763841402">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1647763841402" />
+    <state x="495" y="138" key="FileChooserDialogImpl" timestamp="1647763748633">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="495" y="138" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1647763748633" />
+    <state x="818" y="363" key="Github.ShareDialog" timestamp="1647762531374">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="818" y="363" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1647762531374" />
+    <state x="551" y="191" key="Github.UntrackedFilesDialog" timestamp="1647762550973">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="551" y="191" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1647762550973" />
+    <state width="962" height="258" key="GridCell.Tab.0.bottom" timestamp="1647762396624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1647762396624" />
+    <state width="962" height="258" key="GridCell.Tab.0.center" timestamp="1647762396624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1647762396624" />
+    <state width="962" height="258" key="GridCell.Tab.0.left" timestamp="1647762396624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1647762396624" />
+    <state width="962" height="258" key="GridCell.Tab.0.right" timestamp="1647762396624">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1647762396624" />
+    <state width="962" height="258" key="GridCell.Tab.1.bottom" timestamp="1647762396527">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1647762396527" />
+    <state width="962" height="258" key="GridCell.Tab.1.center" timestamp="1647762396527">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1647762396527" />
+    <state width="962" height="258" key="GridCell.Tab.1.left" timestamp="1647762396527">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1647762396527" />
+    <state width="962" height="258" key="GridCell.Tab.1.right" timestamp="1647762396527">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="962" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1647762396527" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1647763731256">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1647763731256" />
+    <state x="307" y="130" key="Vcs.Push.Dialog.v2" timestamp="1647764373184">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="307" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1647764373184" />
+    <state x="508" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647763802623">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="508" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.816@0.0.1536.816" timestamp="1647763802623" />
+  </component>
+</project>
